@@ -2,11 +2,11 @@
 
 Funcionalidade: Adicionar Item
 
-    @happy
     Cenário: Adicionar Item
         Dado que acesso a página
-        Quando adiciono o item
-        Então desejo ver o item na listagem
+        Quando preencho o formulario de Login
+        Quando adiciono o Item
+        Então desejo ver o Item na listagem
 
 
  
